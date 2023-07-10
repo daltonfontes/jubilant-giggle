@@ -21,10 +21,9 @@ https://github.com/daltonfontes/jubilant-giggle
 
 cd nome-do-repositorio
 
-
 3. Execute o script para criar o projeto TypeScript:
 
-bash run.sh
+bash criar_projeto_ts.sh
 
 
 4. Siga as instruções no console para configurar o projeto. Você terá a opção de fornecer o nome do diretório do projeto e também de alterar o nome do projeto.
