@@ -15,7 +15,7 @@ Este projeto é um script em bash que automatiza a criação de um projeto bási
 
 1. Clone o repositório em sua máquina local:
 
-https://github.com/daltonfontes/jubilant-giggle
+(https://github.com/daltonfontes/ts_project_bash)
 
 2. Navegue até o diretório do projeto:
 
